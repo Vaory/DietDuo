@@ -7,18 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7484A94B2B7B5D2E00A302A7 /* DietDuoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A94A2B7B5D2E00A302A7 /* DietDuoApp.swift */; };
-		7484A94D2B7B5D2E00A302A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A94C2B7B5D2E00A302A7 /* ContentView.swift */; };
+		744A2B5E2BBADF5F0097F0BF /* ss4.png in Resources */ = {isa = PBXBuildFile; fileRef = 744A2B5D2BBADF5F0097F0BF /* ss4.png */; };
+		744A2B632BBADF6F0097F0BF /* ss3.png in Resources */ = {isa = PBXBuildFile; fileRef = 744A2B622BBADF6F0097F0BF /* ss3.png */; };
+		744A2B652BBADF730097F0BF /* ss1.png in Resources */ = {isa = PBXBuildFile; fileRef = 744A2B642BBADF730097F0BF /* ss1.png */; };
+		744B17DE2BBAD01F0028E65A /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 744B17DD2BBAD01F0028E65A /* InfoView.swift */; };
+		7484A94B2B7B5D2E00A302A7 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A94A2B7B5D2E00A302A7 /* Main.swift */; };
 		7484A94F2B7B5D2F00A302A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7484A94E2B7B5D2F00A302A7 /* Assets.xcassets */; };
 		7484A9522B7B5D2F00A302A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7484A9512B7B5D2F00A302A7 /* Preview Assets.xcassets */; };
+		7484A9592B7B5DA600A302A7 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A9582B7B5DA600A302A7 /* ViewModel.swift */; };
+		7484A95B2B7B5DDD00A302A7 /* ColorsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A95A2B7B5DDD00A302A7 /* ColorsExtension.swift */; };
+		7484A95D2B7B5E1B00A302A7 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A95C2B7B5E1B00A302A7 /* MainView.swift */; };
+		7484A95F2B7B5E6500A302A7 /* MenuListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A95E2B7B5E6500A302A7 /* MenuListView.swift */; };
+		7484A9612B7B5E8D00A302A7 /* AddMealsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A9602B7B5E8D00A302A7 /* AddMealsView.swift */; };
+		7484A9632B7B5ECB00A302A7 /* AddActiviteisView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A9622B7B5ECB00A302A7 /* AddActiviteisView.swift */; };
+		7484A9652B7B5EFC00A302A7 /* PreferencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A9642B7B5EFC00A302A7 /* PreferencesView.swift */; };
+		7484A9672B7B5F2800A302A7 /* CustumSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7484A9662B7B5F2800A302A7 /* CustumSegmentedControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		744A2B5D2BBADF5F0097F0BF /* ss4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ss4.png; path = ../../../../../ss4.png; sourceTree = "<group>"; };
+		744A2B612BBADF670097F0BF /* ss2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss2.png; sourceTree = "<group>"; };
+		744A2B622BBADF6F0097F0BF /* ss3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ss3.png; path = ../../../../../ss3.png; sourceTree = "<group>"; };
+		744A2B642BBADF730097F0BF /* ss1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ss1.png; path = ../../../../../ss1.png; sourceTree = "<group>"; };
+		744B17DD2BBAD01F0028E65A /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		7484A9472B7B5D2E00A302A7 /* DietDuo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DietDuo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7484A94A2B7B5D2E00A302A7 /* DietDuoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DietDuoApp.swift; sourceTree = "<group>"; };
-		7484A94C2B7B5D2E00A302A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		7484A94A2B7B5D2E00A302A7 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
 		7484A94E2B7B5D2F00A302A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7484A9512B7B5D2F00A302A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7484A9582B7B5DA600A302A7 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		7484A95A2B7B5DDD00A302A7 /* ColorsExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsExtension.swift; sourceTree = "<group>"; };
+		7484A95C2B7B5E1B00A302A7 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		7484A95E2B7B5E6500A302A7 /* MenuListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListView.swift; sourceTree = "<group>"; };
+		7484A9602B7B5E8D00A302A7 /* AddMealsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMealsView.swift; sourceTree = "<group>"; };
+		7484A9622B7B5ECB00A302A7 /* AddActiviteisView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddActiviteisView.swift; sourceTree = "<group>"; };
+		7484A9642B7B5EFC00A302A7 /* PreferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferencesView.swift; sourceTree = "<group>"; };
+		7484A9662B7B5F2800A302A7 /* CustumSegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustumSegmentedControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +55,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		744A2B5C2BBADE840097F0BF /* GitSreenshots */ = {
+			isa = PBXGroup;
+			children = (
+				744A2B5D2BBADF5F0097F0BF /* ss4.png */,
+				744A2B612BBADF670097F0BF /* ss2.png */,
+				744A2B642BBADF730097F0BF /* ss1.png */,
+				744A2B622BBADF6F0097F0BF /* ss3.png */,
+			);
+			path = GitSreenshots;
+			sourceTree = "<group>";
+		};
 		7484A93E2B7B5D2E00A302A7 = {
 			isa = PBXGroup;
 			children = (
@@ -51,9 +85,10 @@
 		7484A9492B7B5D2E00A302A7 /* DietDuo */ = {
 			isa = PBXGroup;
 			children = (
-				7484A94A2B7B5D2E00A302A7 /* DietDuoApp.swift */,
-				7484A94C2B7B5D2E00A302A7 /* ContentView.swift */,
-				7484A94E2B7B5D2F00A302A7 /* Assets.xcassets */,
+				74FE67342BA33123002A90CD /* App */,
+				74CE64412B7B601E00B890B7 /* Views */,
+				74CE64452B7B60E300B890B7 /* ViewModel */,
+				74CE64442B7B60BC00B890B7 /* SupportingFiles */,
 				7484A9502B7B5D2F00A302A7 /* Preview Content */,
 			);
 			path = DietDuo;
@@ -65,6 +100,62 @@
 				7484A9512B7B5D2F00A302A7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		74CE64412B7B601E00B890B7 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				7484A95C2B7B5E1B00A302A7 /* MainView.swift */,
+				74CE64432B7B604B00B890B7 /* OtherViews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		74CE64432B7B604B00B890B7 /* OtherViews */ = {
+			isa = PBXGroup;
+			children = (
+				74CE64462B7B610200B890B7 /* PreferencesView */,
+				7484A95E2B7B5E6500A302A7 /* MenuListView.swift */,
+				7484A9602B7B5E8D00A302A7 /* AddMealsView.swift */,
+				744B17DD2BBAD01F0028E65A /* InfoView.swift */,
+				7484A9622B7B5ECB00A302A7 /* AddActiviteisView.swift */,
+			);
+			path = OtherViews;
+			sourceTree = "<group>";
+		};
+		74CE64442B7B60BC00B890B7 /* SupportingFiles */ = {
+			isa = PBXGroup;
+			children = (
+				744A2B5C2BBADE840097F0BF /* GitSreenshots */,
+				7484A95A2B7B5DDD00A302A7 /* ColorsExtension.swift */,
+				7484A94E2B7B5D2F00A302A7 /* Assets.xcassets */,
+			);
+			path = SupportingFiles;
+			sourceTree = "<group>";
+		};
+		74CE64452B7B60E300B890B7 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				7484A9582B7B5DA600A302A7 /* ViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		74CE64462B7B610200B890B7 /* PreferencesView */ = {
+			isa = PBXGroup;
+			children = (
+				7484A9642B7B5EFC00A302A7 /* PreferencesView.swift */,
+				7484A9662B7B5F2800A302A7 /* CustumSegmentedControl.swift */,
+			);
+			path = PreferencesView;
+			sourceTree = "<group>";
+		};
+		74FE67342BA33123002A90CD /* App */ = {
+			isa = PBXGroup;
+			children = (
+				7484A94A2B7B5D2E00A302A7 /* Main.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +217,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				7484A9522B7B5D2F00A302A7 /* Preview Assets.xcassets in Resources */,
+				744A2B5E2BBADF5F0097F0BF /* ss4.png in Resources */,
+				744A2B652BBADF730097F0BF /* ss1.png in Resources */,
 				7484A94F2B7B5D2F00A302A7 /* Assets.xcassets in Resources */,
+				744A2B632BBADF6F0097F0BF /* ss3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +231,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7484A94D2B7B5D2E00A302A7 /* ContentView.swift in Sources */,
-				7484A94B2B7B5D2E00A302A7 /* DietDuoApp.swift in Sources */,
+				7484A9592B7B5DA600A302A7 /* ViewModel.swift in Sources */,
+				7484A95F2B7B5E6500A302A7 /* MenuListView.swift in Sources */,
+				7484A9632B7B5ECB00A302A7 /* AddActiviteisView.swift in Sources */,
+				7484A9672B7B5F2800A302A7 /* CustumSegmentedControl.swift in Sources */,
+				7484A94B2B7B5D2E00A302A7 /* Main.swift in Sources */,
+				7484A9612B7B5E8D00A302A7 /* AddMealsView.swift in Sources */,
+				7484A9652B7B5EFC00A302A7 /* PreferencesView.swift in Sources */,
+				7484A95D2B7B5E1B00A302A7 /* MainView.swift in Sources */,
+				744B17DE2BBAD01F0028E65A /* InfoView.swift in Sources */,
+				7484A95B2B7B5DDD00A302A7 /* ColorsExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
