@@ -12,7 +12,7 @@
   
 <p float="left">
   <img src="//DietDuo/SupportingFiles/GitSreenshots/ss1.png" width="200" />
-  <img src="//DietDuo/SupportingFiles/GitSreenshots/ss2.png" width="200" /> 
+  <img src="DietDuo/SupportingFiles/GitSreenshots/ss2.png" width="200" /> 
   <img src="//DietDuo/SupportingFiles/GitSreenshots/ss3.png" width="200" />
   <img src="//DietDuo/SupportingFiles/GitSreenshots/ss4.png" width="200" />
 </p>
