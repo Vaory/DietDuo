@@ -3,6 +3,7 @@
 ## A calories and activity counter with personalized recomendations depended on your goals:
 
 
+- ...work is in progress
 
 ## Stack used:
 - SwiftUI
